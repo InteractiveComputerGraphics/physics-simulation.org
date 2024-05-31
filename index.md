@@ -2,9 +2,9 @@
 
 ### Smoothed Particle Hydrodynamics (SPH)
 
-* SPH simulation framework: [SPlisHSPlasH](https://splishsplash.physics-simulation.org/)
-* Surface reconstruction: [splashsurf](https://splashsurf.physics-simulation.org/)
-* [SPH tutorial](https://sph-tutorial.physics-simulation.org/)
+* An open-source SPH simulation framework: [SPlisHSPlasH](https://splishsplash.physics-simulation.org/)
+* A surface reconstruction library and CLI for particle data from SPH simulations, written in Rust: [splashsurf](https://splashsurf.physics-simulation.org/)
+* An SPH tutorial (course notes and slides): [SPH tutorial](https://sph-tutorial.physics-simulation.org/)
 
 ### Neighborhood Search
 
